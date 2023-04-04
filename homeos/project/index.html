@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head><link rel="stylesheet" href="normalize.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>STORE</title>
+        <link href="https://fonts.googleapis.com/css?family=Domine|Questrial" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">
+		<style>
+		.dropdown {
+			position: relative;
+			display: inline-block;
+		}
+
+		.dropdown-content {
+			display: none;
+			position: absolute;
+			background-color: #f9f9f9;
+			min-width: 160px;
+			box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+			padding: 12px 16px;
+		}
+
+		.dropdown:hover .dropdown-content {
+			display: block;
+		}
+		
+		</style>
+    </head>
+    <body>
+        <header>
+            <h1>
+			    <a href="/Home/homeos/homeos.php"><img src="img/winlogo.png"width="40"height="40"style="    float: right;"></a>
+                <a href="index.html">STORE</a>
+            </h1>
+			
+			<nav class="navbar"> 
+			 <ul>
+			  <li><a href="index.html" class="active">home</a></li>
+			  <li><span class="dropdown"><a href="#">more&#9662;</a>
+			   <div class="dropdown-content">
+			     <a href="#">featured</a>
+				 <a href="#">women</a>
+				 <a href="#">men</a>
+				 <a href="kids.html">kids</a>
+			   </div>
+			  </span>
+			  </li>
+			 </ul>
+			</nav>
+        </header>
+        <main>
+            <h2>Featured Products</h2>
+            <p>Refresh your look with pieces of our collection</p>
+            <div>
+                <img src="img/img1.jpg">
+                <img src="img/img2.jpg">
+                <img src="img/img3.jpg">
+                <img src="img/img4.jpg">
+                <img src="img/img5.jpg">
+                <img src="img/img6.jpg">
+            </div>
+            <a href="products.html">More Products</a>
+        </main>
+        <footer>
+            <p>&copy; 2018 All Rights Reserved</p>
+        </footer>
+    </body>
+</html>

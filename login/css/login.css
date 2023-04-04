@@ -1,0 +1,51 @@
+ 
+           .img-circle{
+               background: #f5cee547;
+               margin: auto;
+               transition-duration: 0.5s;
+               
+           }
+           .img-circle:hover{
+              border: 1px solid #8b18e2b5;
+           }
+           .form-control{
+               margin: auto;
+               width: 40%;
+           }
+           .jumbotron{
+               background-color: #eee0;
+           }
+           legend{
+               border-bottom: 0;
+           }
+           .form-control{
+               background: #f5cee547;
+               color: #000;
+               border-color:#8b18e2b5; ;
+           }
+           .form-control:focus {
+               border-color: #18aae2;
+               background-color: #d6cdff;
+           }
+           .pass{
+               display: inline;
+           }
+           button{
+               background: #fff0;
+               border: #fff0;
+           }
+          .box-h1{
+            font-family:Roboto, sans-serif;
+            color: #b4bde8d1;
+            text-align: center;
+            font-size: 36px;
+            text-transform: capitalize;
+            font-weight: 800;
+            
+          }           
+          hr{
+            width: 25%;
+            height: 5px;
+            /* margin: 10px auto 10px 43%; */
+            background-color: #17bfe0;
+         }

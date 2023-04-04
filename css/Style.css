@@ -1,0 +1,152 @@
+body 
+{
+	margin:0px;
+	text-align:center;
+	background-color:#fff;
+	text-transform:capitalize;
+	
+}
+
+.box
+{ 
+/*background-color:#84756bb5;*/
+	margin : 0px auto;
+	width : 1250px;
+	height : 900px;
+
+}
+/*----------header------------*/
+.Header
+{
+	padding:5px;
+}
+
+
+	.icons8-windows-10{
+	    vertical-align: middle;
+		}
+
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+	float : left;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 60px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+ 
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-size: 50%;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+/*------------------main---------------*/
+.main{
+     margin-top:30px;
+     margin-bottom:55px;
+   }
+   
+   .s22{
+	 color:#fff;  
+	}
+   
+ .pra{
+	   /*font-family: 'Questrial', sans-serif;*/
+	   width:550px;
+	   max-width:97%;
+	   font-size:23px;
+	   text-align:center;
+	   margin:20px auto;
+	   line-height:25px;
+	   text-shadow:5px 5px 5px  #888;
+	   
+	}  
+.mag-main{
+	   width:50%;
+	   max-width:450px;
+	   margin:20px auto;
+	   
+	}
+	
+	.wtw{
+	   padding:20px;
+	   border-bottom:2px dotted #999;
+	   box-sizing: border-box; 
+	   text-align:center;
+	   font-size:30px;
+	   color:#000;
+	   background-color:#fff;
+	   margin:0px;	   
+	}
+	.box1{
+	   padding:30px;
+	   margin:auto;
+	   height:400px;
+	   width:800px;
+	   max-width:95%;
+	   background-color:#000;
+	   box-shadow:  5px 5px 5px 5px  #999;	
+	   border-radius:25px;
+	}
+
+	 .home {
+    left: 0px;
+    width: 46px;
+    background: url('img_navsprites.gif') 0 0;
+	height:44px;
+	display:inline-block;
+	
+   }
+   /*--------------footer-----------*/
+   
+   .sss{
+	   width:550px;
+	   max-width:97%;
+	   font-size:23px;
+	   text-align:center;
+	   margin:20px auto;
+	   line-height:25px;
+	   text-shadow:5px 5px 5px  #888;
+	}
+   
+   .footer{
+	  background-color:#dadada;
+	 padding:10px;
+	  margin-top:10px;
+	  margin-bottom:0px;
+	  height:190px; 
+	}
+	.boxx{
+		width:43px;
+		height:3px;
+		background-color:#333;
+		margin:4px;
+	}
+	.xx{
+		margin-top:18px;
+		
+	}
+	/*-------------- new1-----------*/
