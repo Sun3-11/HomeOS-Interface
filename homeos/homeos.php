@@ -505,15 +505,7 @@
 	   <div class="boxpanel2 row2 bp2h">
 	    <p>0%</p>
 	   </div>
-	   <div class="boxpanel2 row2 bp2h">
-	    <p>Night light</p>
-	   </div>
-	   <div class="boxpanel2 row2 bp2h activee"style="margin: 20px -11px -5px 10px;">
-	   <p ></p>Bluetooth</p>
-	   </div>
-	   <div class="boxpanel2 row2 bp2h">
-	   <p>VPN<p>
-	   </div>
+	
 	 </div>
 	 	   
 	 </div> 
@@ -540,7 +532,7 @@
           win.style.transform = 'scale(0.8)';
       ">
     <!--class="disk-icon"-->
-	<img src="imgs/img1.jfif"width="35"height="35"style="margin-bottom: 17px; margin-left: 10px;">
+	<!-- <img src="imgs/img1.jfif"width="35"height="35"style="margin-bottom: 17px; margin-left: 10px;"> -->
       </div>
 
 	  </div>
@@ -612,7 +604,7 @@
 			  Data Structures
 			</video>
 			</div>
-            <div class="footer"></div>
+            <!-- <div class="footer"></div> -->
           </div>
 		  </div>
           <div  class="window" id="musicwindow" onclick="click">
@@ -682,6 +674,7 @@
                 height: 112px;
                 color: #fff;
                 border-radius: 25px;
+                margin-top: 12px;
              ">
             <p>Yanni Keys To Imagination</p>
             <img src="imgs/music.png"width="60"height="60">
@@ -690,7 +683,7 @@
       
             </audio>
         </div>
-        <div class="music3 "style=
+        <!-- <div class="music3 "style=
                 "text-align: center;
                  background-color: #5a6cec;
                  padding: 5px;
@@ -704,7 +697,7 @@
                   <source src="music/mu3.mp3" type="audio/mpeg">
       
                </audio>
-       </div>
+       </div> -->
 			 </div>
         <div class="footer">&copy;</div>
       </div>
