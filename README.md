@@ -39,10 +39,6 @@ To run the project locally, follow these steps:
     ```
 This will load the Windows 10 interface in your browser.
 
-## Project Images
-
-## Project Video
-
 ## Contributing
 We welcome any contributions to improve the project! If you would like to contribute, please follow these steps:
 
