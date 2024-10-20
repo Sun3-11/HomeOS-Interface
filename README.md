@@ -1,7 +1,8 @@
 # HomeOs-Windows10-Interface
 This project is a Windows 10-like user interface running on a WAMP server. It simulates the Windows experience on a web browser using PHP, JavaScript, CSS, and HTML. The project aims to replicate the look and feel of the Windows 10 desktop, providing a web-based alternative interface.
 ## Gif
-![Gif interFace](https://github.com/user-attachments/assets/ee7a32e9-537b-4bac-a6b8-890c46675d25)
+
+![_Windows View - Google Chrome_ 1446-03-20 15-20-18](https://github.com/user-attachments/assets/a0020245-69b3-4114-8943-edd3b0984fa6)
 
 ## Image
 <img src='https://github.com/user-attachments/assets/b5622791-d318-4eeb-abe3-921e73f567b4' high='300' width='300'>
