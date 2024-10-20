@@ -62,7 +62,9 @@ We welcome any contributions to improve the project! If you would like to contri
  5. Submit a pull request: Open a pull request in the original repository with a detailed description of your changes.
 
  ## License
-  This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
  ## Acknowledgments
   Special thanks to the creators of WAMP, PHP, JavaScript, CSS, and HTML for providing the tools to build this project.
